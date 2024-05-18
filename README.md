@@ -1,3 +1,3 @@
 # testrepo
-##Editting a file
+## Editting a file
 its a markdown file in tis repository
